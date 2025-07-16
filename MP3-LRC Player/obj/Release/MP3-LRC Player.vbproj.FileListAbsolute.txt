@@ -1,0 +1,16 @@
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\bin\Release\MP3-LRC Player.exe.config
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\bin\Release\MP3-LRC Player.exe
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\bin\Release\MP3-LRC Player.pdb
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\bin\Release\MP3-LRC Player.xml
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\bin\Release\Interop.WMPLib.dll
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\bin\Release\AxInterop.WMPLib.dll
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\obj\Release\Interop.WMPLib.dll
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\obj\Release\AxInterop.WMPLib.dll
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\obj\Release\MP3-LRC Player.vbproj.ResolveComReference.cache
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\obj\Release\MP3_LRC_Player.Form1.resources
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\obj\Release\MP3_LRC_Player.Resources.resources
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\obj\Release\MP3-LRC Player.vbproj.GenerateResource.cache
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\obj\Release\MP3-LRC Player.vbproj.CoreCompileInputs.cache
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\obj\Release\MP3-LRC Player.exe
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\obj\Release\MP3-LRC Player.xml
+C:\Users\johnny\source\repos\MP3-LRC Player\MP3-LRC Player\obj\Release\MP3-LRC Player.pdb
